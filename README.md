@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bees-s-tech&label=Profile%20views&color=0e75b6&style=flat" alt="bees-s-tech" /> </p>
 
-- 📫 How to reach me **tharushasandeep7201@gmail.com**
-
 - ⚡ Fun fact **BEES S TECH 🐝**
 
 <h3 align="left">Connect with me:</h3>
