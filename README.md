@@ -1,4 +1,4 @@
-<center><img src="gitbeesstech.png" alt="Bees s tech - technology"></center>
+<center><img src="gitthumble.png" alt="Bees s tech - technology"></center>
 <h1 align="center">Hi 👋, I'm Tharusha S. Bandara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
