@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bees-s-tech&label=Profile%20views&color=0e75b6&style=flat" alt="bees-s-tech" /> </p>
 
-- ⚡ Fun fact **BEES S TECH 🐝**
+- ⚡ Fun fact **Technical Data Shelter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
